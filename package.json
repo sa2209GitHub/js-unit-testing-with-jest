@@ -1,0 +1,26 @@
+{
+  "name": "js-unit-testing-with-jest",
+  "version": "1.0.0",
+  "description": "JavaScript Unit Testing With Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sa2209GitHub/js-unit-testing-with-jest.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "jest",
+    "unit",
+    "testing"
+  ],
+  "author": "sa <sq@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sa2209GitHub/js-unit-testing-with-jest/issues"
+  },
+  "homepage": "https://github.com/sa2209GitHub/js-unit-testing-with-jest#readme"
+}
