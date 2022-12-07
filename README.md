@@ -1,17 +1,17 @@
 # js-unit-testing-with-jest
 JavaScript Unit Testing With Jest
 
-1.  Init project with npm
+1.  Init project with *__npm__*
     ```bash
     npm init [-y]
     ```
 
-2.  Install jest and @types/jest as development dependencies
+2.  Install *__jest__* and *__@types/jest__* as development dependencies
     ```bash
     npm i -D jest @types/jest
     ```
 
-3.  Install axios
+3.  Install *__axios__*
     ```bash
     mpm i axios
     ```
