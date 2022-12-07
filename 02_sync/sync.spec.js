@@ -2,7 +2,6 @@ const Lodash = require('./sync')
 
 let _ = new Lodash()
 
-
 describe('Lodash: compact', () => {
     let array   // = [false, 42, 0, '', true, null, undefined, 'hello']
     let result  // = [42, true, 'hello']
@@ -37,8 +36,8 @@ describe('Lodash: compact', () => {
         expect(_.compact(array)).not.toContain(null)
         expect(_.compact(array)).not.toContain(NaN)
         expect(_.compact(array)).not.toContain(0)
-        expect(_.compact(array)).not.toContain('')
         expect(_.compact(array)).not.toContain(0n)
+        expect(_.compact(array)).not.toContain('')
     })
 })
 
