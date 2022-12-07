@@ -1,5 +1,5 @@
 # js-unit-testing-with-jest
-JavaScript Unit Testing With Jest
+JavaScript Unit Testing with Jest
 
 1.  Init project with *__npm__*
     ```bash
